@@ -1,5 +1,8 @@
 # lett
 terminal-based reaction game.
+never download save files from unknown sources. they may contain executable code that may harm your device.
+your rating and average accuracy are judged basing on your last 10 games.
+gl.
 
 here are some screenshots
 <img width="1233" height="596" alt="WindowsTerminal_rKGMkkBzTP" src="https://github.com/user-attachments/assets/f0559dc7-5381-4221-b5bf-4e4c5ea7ad17" />
@@ -11,5 +14,5 @@ here are some screenshots
 actual gameplay lol
 <img width="125" height="157" alt="изображение" src="https://github.com/user-attachments/assets/8c37a304-15be-4a7b-ad51-48bba3e70826" />
 
-Download the newest game from releases, or use the old version as in source code.
-Newer version contains better pool, shop, styles, etc. and will be updated from time to time.
+download the newest game from releases, or use the old version as in source code.
+newer version contains different pool, shop, styles, achievements, etc. and will be updated from time to time, unlike the open-source one.
