@@ -1,6 +1,11 @@
-# lett
+<img width="1109" height="300" alt="изображение" src="https://github.com/user-attachments/assets/0e0412f2-e7c1-4a9e-a710-cbd87212399e" />
+
+# LETT! 
+
 terminal-based reaction game.
+
 never download save files from unknown sources. they may contain executable code that may harm your device.
+
 your rating and average accuracy are judged basing on your last 10 games.
 gl.
 
