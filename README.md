@@ -12,6 +12,7 @@ gl.
 here are some screenshots
 <img width="1233" height="596" alt="WindowsTerminal_rKGMkkBzTP" src="https://github.com/user-attachments/assets/f0559dc7-5381-4221-b5bf-4e4c5ea7ad17" />
 <img width="1233" height="596" src="https://i.postimg.cc/QtsShtpB/Windows-Terminal-8Ni-UMUht2M.png" />
+<img width="1233" height="536" alt="WindowsTerminal_GejLdHfzSR" src="https://github.com/user-attachments/assets/21733c81-d0c2-4cf7-8486-9e5b7f97aa68" />
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/fc84d363-445b-4741-a714-20f50f52c345" />
 
 <img width="1113" height="626" alt="WindowsTerminal_1YqAwaj57Z" src="https://github.com/user-attachments/assets/75d3ded6-c92b-43af-8d05-585c14891a3c" />
