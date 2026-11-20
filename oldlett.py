@@ -148,10 +148,10 @@ def game(times, timepr):
     countt += 1
     #game fully made by fauzzeth
     difficulty = round((total/25) * ((2.6-timepr)*100) * 10)
-    gamehistory.append(grating)
     acchis.append(round(accuracy, 2))
     if passed == True: grating = round(difficulty * (accuracy/100))
     else: grating = 0
+    gamehistory.append(grating)
     if countt < 10:
         sprint("Difficulty, rating, and accuracy will be available as soon as you complete 10 games!")
     else:
